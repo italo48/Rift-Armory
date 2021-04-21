@@ -13,5 +13,5 @@ Aplicação de terminal feita em C++14 de uma loja inspirada na [loja *in-game*]
 
 
 1. Abra um Terminal
-2. Navegue até ``Rift-Armory/Projeto/Rift Armory/Bin`` 
+2. Navegue até ``Rift-Armory/Projeto Final de POO/Rift Armory/build-Rift_Armory-Desktop-Debug`` 
 3. Execute o comando ``./Rift_Armory``
