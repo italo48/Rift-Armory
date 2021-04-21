@@ -11,8 +11,7 @@ Aplicação de terminal feita em C++14 de uma loja inspirada na [loja *in-game*]
 
 #### Rodar o projeto
 
-```
+
 1. Abra um Terminal
-2. Navegue até Rift-Armory/Projeto/Rift Armory/Bin. 
-3. Execute o comando ./Rift_Armory
-```
+2. Navegue até ``Rift-Armory/Projeto/Rift Armory/Bin`` 
+3. Execute o comando ``./Rift_Armory``
