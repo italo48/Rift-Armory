@@ -3,7 +3,7 @@
 
 
 ### Tecnologias
-- [C++ 14]()
+- [C++ 14](https://en.cppreference.com/w/cpp/14)
 
 ### Descrição
 
